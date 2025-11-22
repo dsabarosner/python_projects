@@ -1,4 +1,4 @@
-# Data_wranglind_2
+# Data_wrangling_2
 
 ## 📝 Descripción
 Limpieza y transformación de datos con pandas: manejo de valores nulos, duplicados y EDA.
